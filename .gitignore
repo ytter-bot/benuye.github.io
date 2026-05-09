@@ -3,6 +3,8 @@ _site/
 .sass-cache/
 .bundle/
 vendor/
+.DS_Store
+.ruby/
 
 # Workshop planning notes are not part of the starter template.
 github_pages_workshop_plan.md
